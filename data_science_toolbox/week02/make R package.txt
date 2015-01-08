@@ -1,0 +1,23 @@
+Rtools
+
+collection of tools necessary for building R packages in Windows
+
+http://cran.r-project.org/bin/windows/Rtools/
+
+select .exe that corresponds to version of R used
+
+
+if you have Cygwin installed
+http://cran.r-project.org/bin/windows/Rtools/Rtools.txt
+
+MAKE SURE that the box us checked to have the installed edit your path
+
+
+find.package("devtools")
+install.packages("devtools")
+library("devtools")
+find_rtools()
+should return a TRUE
+
+
+

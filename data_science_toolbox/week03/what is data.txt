@@ -1,0 +1,17 @@
+data - values of qualitative or quantitave variables belonging to a set of items
+	set of items - sometimes called the population - the set of objects you are interested in - drug
+	variables are a measurment or characteristic of an item - sex
+	qualitative - sex
+	quantitative - blood
+
+data looks like
+	fastq
+	api from twitter
+	medical record
+	video file
+	audio file
+
+data is second most important thing after the question
+	data will limit or enable the questions
+	having data cant save you if you dont have a question
+

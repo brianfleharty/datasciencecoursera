@@ -1,0 +1,18 @@
+pwd	print working directory
+clear	clear screen
+ls	list 
+ls -a
+ls -al
+
+cd	change working directory
+mkdir	creates new working directory
+touch	creates a new file
+
+-r flag (cp -r documents more_docs)
+cp	copy files
+
+-r flag (rm -r more_docs)
+rm	removes files
+mv	move files
+date	print date
+echo	print input	

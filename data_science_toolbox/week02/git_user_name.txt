@@ -1,0 +1,4 @@
+git config --global user.name "brianfleharty"
+git config --global user.email "fleharty@hotmail.com"
+git config --list
+exit
