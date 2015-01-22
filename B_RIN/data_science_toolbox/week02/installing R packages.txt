@@ -1,0 +1,19 @@
+Task Views
+
+install.packages("slidify")
+
+install.packages(c("","",""))
+
+tools>install packages
+
+BIOCONDUCTOR
+
+source("www.bioconductor...")
+
+library("ggplot2")
+
+search()
+
+lists all packaged it required
+
+

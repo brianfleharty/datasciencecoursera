@@ -1,0 +1,53 @@
+read tutorials
+
+create new repository #datasciencecoursera
+
+$ mkdir -/test-repo
+	mkdir test-repo
+
+$ cd ~/test-repo
+	cd test-repo
+
+$ git init
+
+#link up local with web
+$ git remote add origin https://github.com/yourUserNameHere/test-repo.git
+
+
+#Go to desired repository on the GitHub website and click the "Fork" button
+$ git remote add origin https://github.com/yourUserNameHere/test-repo.git
+
+https://github.com/articles/fork-a-repo
+
+#link up web with local
+git clone https://github.com/yourUserNameHere/repoNameHere.git
+work on the contribute
+
+tutorials
+
+https://help.github.com/articles/fork-a-repo
+https://git-smc.com/book/en/Git-Basics-Getting-a-Git-Repository
+
+
+…or create a new repository on the command line
+
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brianfleharty/datasciencecoursera.git
+git push -u origin master
+
+
+
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/brianfleharty/datasciencecoursera.git
+git push -u origin master
+
+
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.

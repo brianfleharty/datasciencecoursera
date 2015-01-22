@@ -1,0 +1,41 @@
+git hub - code sharing
+fig share - data sharing
+leek sharing on github
+
+formulate question in advanced
+
+population -> probability -> (sample) to calculate descriptive statistics  -> inferential
+
+confounding shoe size and age and literacy - pay attention to all variables
+
+correlation is not causation
+
+randomization and blocking
+	fix variable
+	stratify - mix and match
+	randomize
+
+prediction vs inference
+	for prediction populations need to be separated
+
+Randomization helps if there is confounding variable
+	
+prediction key quantities
+	sensitivity Pr		++	test disease
+	specificity		--	
+	positive predictive	++	disease test		
+	negative predicative	--
+	accurace		correct
+
+data dredging changing question untill you get good results and ignoring the previous questions
+
+good experiments
+	have replication
+	measure variability
+	generalize the problem you care about
+	are transparent
+
+prediction is not inference
+	both can be important
+beware of data dredging
+

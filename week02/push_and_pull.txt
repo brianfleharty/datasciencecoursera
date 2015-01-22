@@ -1,0 +1,41 @@
+ADD COMMIT PUSH
+
+Adding
+#suppose you add new files to local repository under version control
+#you need to let git know they need to be tracked
+
+- git add . 	#adds new files
+- git add -u 	#updates tracking for files that changed names or were deleted
+- git add -A 	#does both
+
+You should do this before committing
+
+
+#before you commit add to index
+
+Committing
+#Have changes you want to commit to be saved in and intermediate local
+
+- git commit -m "message"
+
+#push changes to remote repo
+
+- git push
+
+#Branches
+
+- git checkout -b branchname
+- git branch
+- git checkout master
+
+#Pull Request
+
+On get hub website
+
+#Be a Hacker
+
+Documentation	http://git-scm.com/doc
+GitHub Help	https://help.gethub.com
+
+Google/Stack Overflow
+
