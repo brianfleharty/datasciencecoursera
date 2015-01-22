@@ -21,6 +21,19 @@
 ###add files to staging area
 	git add .
 
+
+
+###git add . -A  #to remove files
+
+###Then you would just do: #to remove files
+
+###git commit -m "removed some files" #to remove files
+
+
+
+
+
+
 ###list out files
 	git status
 
