@@ -1,0 +1,58 @@
+descriptive
+exploratory
+inferential
+predictive
+causal
+mechanistic
+
+descriptive - describe data
+	first kind of analysis
+	census data and google ngram viewer
+	description and interperation are different steps
+	descriptions usually can not be generalized without additional statistical modeling
+
+exploratory - find relationships you dont know about
+	models are good for finding new connections
+	useful for finding future studies
+	not the final say
+	not for generalizing or predicting
+	correlation does not imply causation
+		brain activity locations
+		star behavior
+
+
+Inferential - use small sample data to say something about a bigger population
+	commonly the goal of statistical modeling
+	involves estimating the quantity you are interested in and the uncertainty about your estimate
+	depends on population and sampling scheme
+		effect of air polution on life expectancy
+
+predictive analysis - use data on some objects to predict values of another object
+	even if x predicts y it does not mean x causes y
+	accuracy depends on measuring the right variables
+	more data and simple model work well
+	prediction is hard especially about future references
+		fivethirtyeight election prediction
+		target figured out a girl was pregnant
+
+causal analysis - find out how changing one sample will affect another
+	usually randomized studies to id causation
+	if non-randomized will be compicated and sensitive to assumptions
+	causal relationships are ususally defined as average effects
+	causal models are gold standard
+		fecal transplants
+
+mechanistic analysis - understand the exact changes in variables that lead to changes in other 
+		       variables for individual objects
+	hard to infer except simple situations
+	usually modeled by a deterministic set of equations (engineering)
+	only random component of the data is error in measurment
+	if equations are know but the parameters are no they may be infered with data analysis
+		changes in concrete design vs function
+
+	
+
+
+	
+
+

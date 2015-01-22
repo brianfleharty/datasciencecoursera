@@ -1,0 +1,19 @@
+extention is .md
+
+readme.md
+
+##Secondary Heading
+####Tertiary Heading
+
+Unordered Lists
+*one
+*two
+*three
+
+markdown intro
+http://daringfireball.net/projects/markdown
+
+click MD button in R studio
+
+R Markdown
+http://www.rstudio.com/ide/docs/authoring/using_markdown
